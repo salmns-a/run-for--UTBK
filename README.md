@@ -32,3 +32,16 @@ yang menjadi target utama adalah **ITB (Institut Teknologi Bandung)**,
 untuk mecapai Microsoft Data Center memilih **ITB** adalah hal yang sangat stratgis
 dan sangat kuat berdasarkan pada fokus akademik, reputasi di mata industri teknologi, 
 dan ekosistem spesifik yang dimiliki ITB.
+
+## prepare a preparation
+ untuk masuk **ITB** ada tiga jalur untuk mendaftar di **ITB** yaitu **UTBK_(SNBPT)_**, 
+**Seleksi Nasional Berdasarkan Prestasi _(SNBP)_**, dan jalur  mandiri, target ku adalah 
+**UTBK** karena tidak memandang raport karena aku tidak bisa bahasa jawa dan untuk mecapai
+skor sebesar 760 - 800+ aku harus mematangkan matematika dan kerangka logika dengan beragai cara
+antara lain pomodoro, active recall, dan autodidak dari YouTube dan aku ambil dari
+coding-interview-university milik jwasham sebagai patokan 
+
+ agar progres ku tetap terlihat dan terpantau aku akan menggunakan chek item 
+di sertakan dengan link video, pendapat dan contoh yang di ambil dari pemahaman dan isi dari
+link video yang di sertakan secara priadi
+
