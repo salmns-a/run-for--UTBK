@@ -34,7 +34,7 @@ dan sangat kuat berdasarkan pada fokus akademik, reputasi di mata industri tekno
 dan ekosistem spesifik yang dimiliki ITB.
 
 ## prepare a preparation
- untuk masuk **ITB** ada tiga jalur untuk mendaftar di **ITB** yaitu **UTBK_(SNBT)_**, 
+ untuk masuk **ITB** ada tiga jalur untuk mendaftar di **ITB** yaitu **UTBK(SNBT)**, 
 **Seleksi Nasional Berdasarkan Prestasi (SNBP)**, dan jalur  mandiri, target ku adalah 
 **UTBK** karena tidak memandang nilai rapor karena aku tidak bisa bahasa jawa dan untuk mecapai
 skor sebesar 760 - 800+ aku harus mematangkan matematika dan kerangka logika dengan berbagai cara
@@ -50,5 +50,6 @@ link video yang di sertakan secara pribadi
 ## we start 
  oke langsung aja kita ke **_math_**
 
- - [Mathematics (All Of It)](https://youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK&si=QD86z_pjKukrKYkP)
+ - [Mathematics (All Of It)(playlist)](https://youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK&si=QD86z_pjKukrKYkP)
  - [x] [introduction of math (video)](https://youtu.be/JbhBdOfMEPs?si=wP0hJzumUUJfd1zM)
+ - [x] [Addition and Subtraction (video)](https://youtu.be/rV7WjNWHOsI?si=0E8u4DTJKKUVXox_)
