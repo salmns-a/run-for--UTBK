@@ -45,7 +45,10 @@ coding-interview-university milik jwasham sebagai patokan
 disertakan dengan link video, pendapat dan contoh yang di ambil dari pemahaman dan isi dari
 link video yang di sertakan secara pribadi
 
- aku juga harus memikirkan bagaimana cara mendapatkan beasiswa melihat kondisi ekonomi keluarga 
-untuk ini aku akan cari di esok hari 
+ dan untuk beasiswa juga akan aku pikirkan melihat kondisi ekonomi saat ini.
 
+## we start 
+ oke langsung aja kita ke **_math_**
 
+ - [Mathematics (All Of It)](https://youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK&si=QD86z_pjKukrKYkP)
+ - [x] [introduction of math (video)](https://youtu.be/JbhBdOfMEPs?si=wP0hJzumUUJfd1zM)
