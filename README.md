@@ -35,7 +35,7 @@ dan ekosistem spesifik yang dimiliki ITB.
 
 ## prepare a preparation
  untuk masuk **ITB** ada tiga jalur untuk mendaftar di **ITB** yaitu **UTBK_(SNBT)_**, 
-**Seleksi Nasional Berdasarkan Prestasi _(SNBP)_**, dan jalur  mandiri, target ku adalah 
+**Seleksi Nasional Berdasarkan Prestasi (SNBP)**, dan jalur  mandiri, target ku adalah 
 **UTBK** karena tidak memandang nilai rapor karena aku tidak bisa bahasa jawa dan untuk mecapai
 skor sebesar 760 - 800+ aku harus mematangkan matematika dan kerangka logika dengan berbagai cara
 antara lain Pomodoro, Active Recall, dan Autodidak dari YouTube dan aku ambil referensi dari
