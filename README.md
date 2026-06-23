@@ -52,7 +52,6 @@ link video yang di sertakan secara pribadi
 
  - [Mathematics (All Of It)(playlist)](https://youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK&si=QD86z_pjKukrKYkP)
  - [x] [introduction of math (video)](https://youtu.be/JbhBdOfMEPs?si=wP0hJzumUUJfd1zM)
-
 ## Executive Summary
 
 In this introductory lecture, Professor Dave addresses a common student dilemma: *Why is it necessary to learn mathematics?* He explains that mathematics is the foundational language of the universe, governing everything from everyday technology (phones, social media algorithms, aviation) to natural and cosmological systems. 
@@ -67,5 +66,22 @@ Professor Dave defines mathematics cleanly: **Math is the study of questions tha
 * **Mathematical Questions:** A mathematical question yields a completely inarguable, absolute answer. For instance, the angle between a radius and a tangent line of a circle is exactly $90^\circ$ [00:03:40]. Other examples include the definite existence of infinitely many prime numbers [00:03:57].
   
  - [x] [Addition and Subtraction (video)](https://youtu.be/rV7WjNWHOsI?si=0E8u4DTJKKUVXox_)
+## Executive Summary
+
+Professor Dave shifts from the philosophy of math to the actual dawn of math: **Arithmetic**. He explains that mathematical symbols and operations were created out of absolute human necessity to communicate ideas, describe physical environments, and manage early societal demands (such as trading goods and keeping inventory) [00:01:49]. 
+
+This lecture focuses on defining the two most fundamental arithmetic operations—**addition** and **subtraction**—translating real-world scenarios into formal mathematical equations, and exploring foundational mathematical properties like the *commutative* and *associative* properties.
+
+---
+###Understanding Subtraction
+* **Definition:** Subtraction is the **inverse (opposite)** operation of addition. Instead of finding a combined total, it finds the **difference** between two numbers [00:04:08].
+* **Visualizing Subtraction:** If you have 5 apples and eat 1, the physical subtraction is represented by the equation [00:04:36]:
+  $$5 - 1 = 4$$
+* **The Number Line Concept:** Subtraction can be beautifully visualized as the **distance** between two numbers on a number line [00:04:53]. For example, $14 - 11 = 3$ because it takes exactly $3$ steps to get from 11 to 14 on a number line [00:05:01].
+
+---
+
+
+       
  - [ ] [Multiplication and Divison small number (video)](https://youtu.be/fr04p6Ar9ic?si=5BcRhYt6ygJphdaT)
  - [ ] [Understanding Fractions, Improper Fractions, and Mixed Numbers (video)](https://youtu.be/qyW2mWvvtZ8?si=a6Ycx4nmxT9uL_FD)
