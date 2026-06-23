@@ -52,4 +52,20 @@ link video yang di sertakan secara pribadi
 
  - [Mathematics (All Of It)(playlist)](https://youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK&si=QD86z_pjKukrKYkP)
  - [x] [introduction of math (video)](https://youtu.be/JbhBdOfMEPs?si=wP0hJzumUUJfd1zM)
+
+## Executive Summary
+
+In this introductory lecture, Professor Dave addresses a common student dilemma: *Why is it necessary to learn mathematics?* He explains that mathematics is the foundational language of the universe, governing everything from everyday technology (phones, social media algorithms, aviation) to natural and cosmological systems. 
+
+The video sets up a philosophical and practical foundation for studying mathematics, defining it as **the study of questions that have definite answers**. Unlike subjective fields or even experimental sciences, mathematical truths are absolute, permanent, and independent of human existence. The course aims to guide learners from basic arithmetic up to undergraduate-level mathematics by building logical tools to uncover these objective truths.
+
+---
+### What Sets Mathematics Apart: Objective vs. Subjective Inquiries
+Professor Dave defines mathematics cleanly: **Math is the study of questions that have definite answers** [00:02:26]. He differentiates this from other domains:
+* **Subjective Questions:** Topics like politics (best form of government), art (who deserves an Oscar), or personal taste (pizza vs. cheeseburgers) do not have a single correct answer; they vary by individual [00:02:42].
+* **Scientific Questions:** Science uses empirical evidence and experiments to reach conclusions that are consistent beyond a reasonable doubt, but it can never offer 100% complete certainty about the future [00:03:06].
+* **Mathematical Questions:** A mathematical question yields a completely inarguable, absolute answer. For instance, the angle between a radius and a tangent line of a circle is exactly $90^\circ$ [00:03:40]. Other examples include the definite existence of infinitely many prime numbers [00:03:57].
+  
  - [x] [Addition and Subtraction (video)](https://youtu.be/rV7WjNWHOsI?si=0E8u4DTJKKUVXox_)
+ - [ ] [Multiplication and Divison small number (video)](https://youtu.be/fr04p6Ar9ic?si=5BcRhYt6ygJphdaT)
+ - [ ] [Understanding Fractions, Improper Fractions, and Mixed Numbers (video)](https://youtu.be/qyW2mWvvtZ8?si=a6Ycx4nmxT9uL_FD)
