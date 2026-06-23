@@ -64,7 +64,9 @@ Professor Dave defines mathematics cleanly: **Math is the study of questions tha
 * **Subjective Questions:** Topics like politics (best form of government), art (who deserves an Oscar), or personal taste (pizza vs. cheeseburgers) do not have a single correct answer; they vary by individual [00:02:42].
 * **Scientific Questions:** Science uses empirical evidence and experiments to reach conclusions that are consistent beyond a reasonable doubt, but it can never offer 100% complete certainty about the future [00:03:06].
 * **Mathematical Questions:** A mathematical question yields a completely inarguable, absolute answer. For instance, the angle between a radius and a tangent line of a circle is exactly $90^\circ$ [00:03:40]. Other examples include the definite existence of infinitely many prime numbers [00:03:57].
-  
+
+---
+
  - [x] [Addition and Subtraction (video)](https://youtu.be/rV7WjNWHOsI?si=0E8u4DTJKKUVXox_)
 ## Executive Summary
 
@@ -81,7 +83,5 @@ This lecture focuses on defining the two most fundamental arithmetic operationsâ
 
 ---
 
-
-       
- - [ ] [Multiplication and Divison small number (video)](https://youtu.be/fr04p6Ar9ic?si=5BcRhYt6ygJphdaT)
+ - [x] [Multiplication and Divison small number (video)](https://youtu.be/fr04p6Ar9ic?si=5BcRhYt6ygJphdaT)
  - [ ] [Understanding Fractions, Improper Fractions, and Mixed Numbers (video)](https://youtu.be/qyW2mWvvtZ8?si=a6Ycx4nmxT9uL_FD)
